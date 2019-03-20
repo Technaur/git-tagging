@@ -4,6 +4,6 @@
 
 `git tag -a <tag name> -m <"Message for tag">`
 
-#### Puth the tags to branch
+#### Push the tags to branch
 
-`git tag -a <tag name> -m <"Message for tag">`
+`git push origin --tags`
